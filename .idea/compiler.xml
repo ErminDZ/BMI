@@ -15,7 +15,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="bmi" options="-endorseddirs &quot;C:\Users\ermin\OneDrive\Documents\GitHub\Dat\2. Semester\Flow 4  Webstack\uge 2\BMI\target/endorsed&quot;" />
+      <module name="bmi" options="-endorseddirs C:\Users\ermin\OneDrive\Documents\GitHub\BMI\target/endorsed" />
     </option>
   </component>
 </project>
